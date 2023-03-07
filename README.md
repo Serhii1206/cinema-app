@@ -1,4 +1,4 @@
-# **Cinema-application project **
+# 🎬  Cinema-application project 🎥
 
  👀  ****Project description:****
 
@@ -8,8 +8,7 @@ Simple back - end application, that follows REST-full API rules and supports use
 ****Project functionality:****
 
 Here is the scheme of this app to better understand its functionality:
-
-![Cinema_scheme.png](..%2F..%2FUsers%2FSirko%2FAppData%2FLocal%2FTemp%2FCinema_scheme.png)
+![cinema-app.png](cinema-app.png)
 
 ****Project's structure:****
 
