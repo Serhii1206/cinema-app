@@ -9,7 +9,8 @@ import cinema.service.UserService;
 import org.springframework.stereotype.Component;
 
 @Component
-public class DataInitializer {
+public class
+DataInitializer {
     private final RoleService roleService;
     private final UserService userService;
 
